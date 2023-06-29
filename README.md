@@ -9,9 +9,9 @@ This project will focus on detecting a custom AR Tag (a form of fiducial marker)
 ---
 ## Results
 * **Applying image to AR Tag**
-  -  ![alt text](https://github.com/roniepatil/Detection-tracking-and-projection-for-Augmented-Reality-AR/blob/main/Images/rtabmap.gif)
+  -  ![alt text](https://github.com/roniepatil/Detection-tracking-and-projection-for-Augmented-Reality-AR/blob/main/Images/testudoMapping.gif)
 * **Applying AR cube to AR Tag**
-  - ![alt text](https://github.com/roniepatil/Detection-tracking-and-projection-for-Augmented-Reality-AR/blob/main/Images/kitti.gif)
+  - ![alt text](https://github.com/roniepatil/Detection-tracking-and-projection-for-Augmented-Reality-AR/blob/main/Images/CubeMapping.gif)
 
 
 ## Dependencies
